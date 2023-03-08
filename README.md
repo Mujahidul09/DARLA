@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/5462133790ce9ae8216fd.jpg" alt="Maya Bot Logo">
 </p>
 <h1 align="center">
-  <b>M̴̴A̴̴Y̴̴A̴ F9Videos Bot V2 </b>
+  <b>M̴̴A̴̴Y̴̴A̴  Bot V2 </b>
 </h1>
 
 ## Features
