@@ -1,3 +1,15 @@
+## • What's New ?
+
+- ⟴ URL Shortener Added
+- ⟴ Global Auto Filter
+- ⟴ Self Delete Added (Auto delete)
+- ⟴ Filter On Off Option Added
+- ⟴ Custom Welcome Message
+- ⟴ Custom Download Name And URL
+- ⟴ Custom Texts (About, Help, Stats,More..)
+- ⟴ Custom URL Buttons (Updates channel, Add To Group, Force Sub, More...)
+
+
 <p align="center">
   <img src="https://telegra.ph/file/5462133790ce9ae8216fd.jpg" alt="Maya Bot Logo">
 </p>
