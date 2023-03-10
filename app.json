@@ -1,11 +1,11 @@
 {
-    "name": "PROFESSOR-BOT",
+    "name": "MayaBotV2",
     "description": "the telegram Autofilter bot",
     "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
     "keywords": ["telegram", "auto-filter"],
     "stack": "container",
-    "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "website": "https://github.com/Mujahidul09/MayaBotV2",
+    "repository": "https://github.com/Mujahidul09/MayaBotV2",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
