@@ -20,7 +20,7 @@ motor==2.5.1
 youtube-search-python
 youtube-search
 yt-dlp==2023.2.17
-ffmpeg=4.1.10
+ffmpeg==4.1.10
 
 #---imdb---#
 git+https://github.com/cinemagoer/cinemagoer
